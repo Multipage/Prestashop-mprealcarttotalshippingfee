@@ -33,7 +33,7 @@ Shipping fee is $15 dollar if the order is below $25. From $25 and above it's $1
 * Cart Total $23
 
 #### Default Prestashop behaviour:
-Shipping fee : 10 (wrong)
+Shipping fee : $10 (wrong)
 
 #### Behaviour after installing this module:
 Shipping fee : $15 (right)
